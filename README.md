@@ -19,7 +19,7 @@
 <p>9.Test the obstacle-avoidance capabilities by placing obstacles in the robot's path. Ensure that the robot is stopping to avoid collisions.</p>
 <p>10.Once the robot is working as intended, make any final adjustments and improvements as necessary.</p>
 	<h2>Photos</h2>
-![WhatsApp Image 2023-04-25 at 10 04 15 AM](https://user-images.githubusercontent.com/110765521/234343152-128a0188-9051-454b-b684-a8f84964f75f.jpeg)
+https://user-images.githubusercontent.com/110765521/234343152-128a0188-9051-454b-b684-a8f84964f75f.jpeg
 
 	
 </body>
